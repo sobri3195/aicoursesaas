@@ -2,6 +2,34 @@
 
 Aplikasi web untuk membuat kursus online secara otomatis menggunakan AI.
 
+## 👨‍💻 Author
+
+**Lettu Kes dr. Muhammad Sobri Maulana, S.Kom, CEH, OSCP, OSCE**
+
+- 📧 Email: [muhammadsobrimaulana31@gmail.com](mailto:muhammadsobrimaulana31@gmail.com)
+- 🐙 GitHub: [github.com/sobri3195](https://github.com/sobri3195)
+- 🌐 Website: [muhammadsobrimaulana.netlify.app](https://muhammadsobrimaulana.netlify.app)
+
+### 🌟 Connect with Me
+
+- 📺 YouTube: [@muhammadsobrimaulana6013](https://www.youtube.com/@muhammadsobrimaulana6013)
+- 💬 Telegram: [@winlin_exploit](https://t.me/winlin_exploit)
+- 🎵 TikTok: [@dr.sobri](https://www.tiktok.com/@dr.sobri)
+- 📱 WhatsApp Group: [Join Community](https://chat.whatsapp.com/B8nwRZOBMo64GjTwdXV8Bl)
+- 🚀 Sevalla: [muhammad-sobri-maulana](https://muhammad-sobri-maulana-kvr6a.sevalla.page/)
+
+### 💖 Support My Work
+
+If you find this project helpful, consider supporting my work through:
+
+- 🎁 [Lynk.id](https://lynk.id/muhsobrimaulana)
+- ☕ [Trakteer](https://trakteer.id/g9mkave5gauns962u07t)
+- 🛍️ [Gumroad](https://maulanasobri.gumroad.com/)
+- 🎨 [Karyakarsa](https://karyakarsa.com/muhammadsobrimaulana)
+- 💝 [Nyawer](https://nyawer.co/MuhammadSobriMaulana)
+
+Your support helps me continue creating and sharing valuable content!
+
 ## 🚀 Deploy ke Netlify
 
 ### Cara Cepat (3 Langkah)
@@ -145,6 +173,12 @@ MIT
 
 Contributions welcome! Please open an issue or PR.
 
+## 🙏 Acknowledgments
+
+Special thanks to all contributors and supporters who make this project possible.
+
 ---
 
-**Dibuat dengan ❤️ menggunakan React + Vite + TypeScript**
+**Dibuat dengan ❤️ oleh [dr. Muhammad Sobri Maulana](https://github.com/sobri3195)**
+
+**Tech Stack:** React + Vite + TypeScript + Tailwind CSS + shadcn/ui
