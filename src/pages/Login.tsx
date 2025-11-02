@@ -15,6 +15,13 @@ import { GoogleLogin } from '@react-oauth/google';
 import { jwtDecode } from "jwt-decode";
 import FacebookLogin from '@greatsumini/react-facebook-login';
 
+interface GoogleJwtPayload {
+  email: string;
+  name: string;
+  picture?: string;
+  sub?: string;
+}
+
 const Login = () => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
@@ -176,7 +183,7 @@ const Login = () => {
               type='standard'
               width={400}
               onSuccess={async (credentialResponse) => {
-                const decoded = jwtDecode(credentialResponse.credential);
+                const decoded = jwtDecode<GoogleJwtPayload>(credentialResponse.credential!);
                 const email = decoded.email;
                 const name = decoded.name;
                 const postURL = serverURL + '/api/social';
